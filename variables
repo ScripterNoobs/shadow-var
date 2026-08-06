@@ -10,9 +10,12 @@ ConsoleMessage|`9[`^Shadow Premium Proxy``]``
 Discord|https://discord.gg/shadowproxy
 
 # GT STUFF
-GrowtopiaFPS_Offset|40544460
 ServerIP|213.179.209.175
 ServerPort|17043
 ServerLoginUrl|login.growtopiagame.com
+
+# FPS OFFSETS
+GrowtopiaFPS_Offset|40502812
+GrowtopiaFPS_Pattern|E9 ? ? ? ? E8 ? ? ? ? 89 74 24 28 89 74 24 20 0F 57 DB 0F 28 D7 BA 13 00 00 00 48 8B C8
 
 Rttex|https://pixelcraftmc.com/ProxyTab_SHADOW.rttex
